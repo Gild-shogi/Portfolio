@@ -26,7 +26,7 @@ function App() {
       <Content name="History" id="History"/>
       <History />
       <Content name="Products" id="Products"/>
-      <Products />
+      
     </Stack>
   );
 }
