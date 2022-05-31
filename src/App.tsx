@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {ChakraProvider} from '@chakra-ui/react'
 import {Stack, Heading,  Box, Image, Center, HStack, VStack, Flex, Grid, Button,} from '@chakra-ui/react';
 import MyProfile from './MyProfile'
