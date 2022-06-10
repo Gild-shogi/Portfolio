@@ -11,7 +11,7 @@ function His2019(){
         <Tag ml="40px" colorScheme="blue">優秀賞</Tag>
         <Box fontSize="lg" pb="5px">第1回 システム創成コンテスト 通信システム部門 出場</Box>
         </HStack>
-        <Box fontSize="lg" pl="40px" pb="5px">Yahoo HackU 2018 NAGOYA 出場</Box>
+        <Box fontSize="lg" pl="40px" pb="5px">Yahoo HackU 2019 NAGOYA 出場</Box>
         <HStack>
         <Tag ml="40px" colorScheme="blue">第3位</Tag>
         <Box fontSize="lg" pb="5px">第26回 全国高等専門学校将棋大会 団体戦 出場</Box>
