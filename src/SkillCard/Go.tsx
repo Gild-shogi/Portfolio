@@ -31,7 +31,7 @@ function Go(){
         <WrapItem>
         <Tag m="1px"colorScheme={editor}>VSCode</Tag>
         
-        <Tag m="1px"colorScheme={frameworks}>gin(学習中)</Tag>
+        <Tag m="1px"colorScheme={frameworks}>net/http(学習中)</Tag>
         
         </WrapItem>
         </Box>
