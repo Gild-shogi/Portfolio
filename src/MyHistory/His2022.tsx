@@ -8,6 +8,8 @@ function His2022(){
         <Divider />
         <Box fontSize="lg" pl="40px" pb="5px">国立 豊田高等専門学校 情報工学科 卒業</Box>
         <Box fontSize="lg" pl="40px" pb="5px">国立 筑波大学 情報学群 知識情報・図書館学類 知識情報システム主専攻 編入学</Box>
+        <Box fontSize="lg" pl="40px" pb="5px">二子玉川 夏の陣2022 楽天エンジニアインターン(R-Hack) 新規プロトタイプ開発 3days 参加</Box>
+        <Box fontSize="lg" pl="40px" pb="5px">Supershipテックインターンシップ2022 プロダクトコース 参加</Box>
         </Stack>
     )
 }

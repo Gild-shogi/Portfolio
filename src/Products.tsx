@@ -1,10 +1,10 @@
 import {ChakraProvider, Stack} from '@chakra-ui/react'
 import {Heading,  Box, Image, Center, HStack, VStack, Flex, Grid, Button, Divider} from '@chakra-ui/react';
-import PdPortfolio from './Products/PdPortfolio';
+import R_Hack2022 from './Products/R_Hack2022';
 
 function Products(){
     return(
-        <PdPortfolio />
+        <R_Hack2022 />
     )
 }
 
