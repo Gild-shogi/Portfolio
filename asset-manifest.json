@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.0a8c2d70.css",
-    "main.js": "/Portfolio/static/js/main.f9058b18.js",
+    "main.js": "/Portfolio/static/js/main.fbfc03c4.js",
     "static/js/787.6d8e164b.chunk.js": "/Portfolio/static/js/787.6d8e164b.chunk.js",
     "static/media/gild-icon.jpg": "/Portfolio/static/media/gild-icon.dcce0e363e12a1516f0d.jpg",
     "static/media/abhaya-libre-all-400-normal.woff": "/Portfolio/static/media/abhaya-libre-all-400-normal.ff71d5e9ae5848f8ede0.woff",
     "static/media/abhaya-libre-sinhala-400-normal.woff2": "/Portfolio/static/media/abhaya-libre-sinhala-400-normal.18d7d6edcf8f38ca2969.woff2",
+    "static/media/TrabelApp.png": "/Portfolio/static/media/TrabelApp.0236eab4866bde677d45.png",
     "static/media/abhaya-libre-latin-400-normal.woff2": "/Portfolio/static/media/abhaya-libre-latin-400-normal.e8f9e56156ced8436053.woff2",
     "static/media/abhaya-libre-latin-ext-400-normal.woff2": "/Portfolio/static/media/abhaya-libre-latin-ext-400-normal.30f5132b87c97e506f4e.woff2",
     "index.html": "/Portfolio/index.html",
     "main.0a8c2d70.css.map": "/Portfolio/static/css/main.0a8c2d70.css.map",
-    "main.f9058b18.js.map": "/Portfolio/static/js/main.f9058b18.js.map",
+    "main.fbfc03c4.js.map": "/Portfolio/static/js/main.fbfc03c4.js.map",
     "787.6d8e164b.chunk.js.map": "/Portfolio/static/js/787.6d8e164b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a8c2d70.css",
-    "static/js/main.f9058b18.js"
+    "static/js/main.fbfc03c4.js"
   ]
 }
