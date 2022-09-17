@@ -1,4 +1,5 @@
 import {Tag, Badge, Heading,  Box, Image, Center, HStack, VStack, Flex, Grid, Button, Link, Fade, ScaleFade, Slide, useDisclosure, Collapse, Container, Wrap, WrapItem} from '@chakra-ui/react';
+import {ChevronDownIcon} from "@chakra-ui/icons"
 
 function JS(){
     const {isOpen, onToggle} = useDisclosure()
@@ -14,6 +15,7 @@ function JS(){
         bg="blackAlpha.45"
         border="2px"
         borderColor="blackAlpha.300"
+        rightIcon={<ChevronDownIcon />}
         >
         JavaScript
         </Button>
