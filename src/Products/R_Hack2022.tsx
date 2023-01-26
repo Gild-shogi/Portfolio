@@ -1,9 +1,9 @@
-import {ChakraProvider, Stack} from '@chakra-ui/react'
-import {Heading,  Box, Image, Center, HStack, VStack, Flex, Grid, Button, Divider,  useDisclosure, Collapse, WrapItem, Tag} from '@chakra-ui/react';
+import { ChevronDownIcon } from '@chakra-ui/icons';
+import { Box, Button, Center, Collapse, Divider, Heading, HStack, Image, Stack, Tag, useDisclosure, WrapItem } from '@chakra-ui/react';
 import RApp from './image/TrabelApp.png';
 
 function R_Hack2022(){
-    const {isOpen, onOpen, onToggle} = useDisclosure({ defaultIsOpen: true })
+    const {isOpen, onOpen, onToggle} = useDisclosure({ defaultIsOpen: false })
     return(
         <Box>
         <Button
@@ -14,7 +14,7 @@ function R_Hack2022(){
         border="2px"
         borderColor="blackAlpha.300"
         >
-        R-Hack: トマレルApp
+        R-Hack: トマレルApp  <ChevronDownIcon/>
         </Button>
         <Collapse in={isOpen} animateOpacity>
         <Box
@@ -48,6 +48,7 @@ function R_Hack2022(){
             </Stack>
         </WrapItem>
         </Box>
+        <Box m="10px"></Box>
         </Collapse>
         </Box>
     )

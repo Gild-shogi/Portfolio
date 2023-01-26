@@ -1,5 +1,5 @@
-import {ChakraProvider, Stack} from '@chakra-ui/react'
-import {Heading,  Box, Tag, Center, HStack, VStack, Flex, Grid, Button, Divider} from '@chakra-ui/react';
+import { ExternalLinkIcon } from '@chakra-ui/icons';
+import { Box, Divider, Heading, HStack, Link, Stack, Tag } from '@chakra-ui/react';
 
 function His2019(){
     return(
@@ -18,7 +18,7 @@ function His2019(){
         </HStack>
         <Box fontSize="lg" pl="40px" pb="5px">第26回 全国高等専門学校将棋大会 個人戦 出場</Box>
         <Box fontSize="lg" pl="40px" pb="5px">U16 愛知プログラミング コンテスト 運営</Box>
-        <Box fontSize="lg" pl="40px" pb="5px">THAILAND-JAPAN STUDENT ICT FAIR 2019 参加</Box>     
+        <Box fontSize="lg" pl="40px" pb="5px">THAILAND-JAPAN STUDENT ICT FAIR 2019 参加 <Link color="blue.400" href='http://tjsif2019.pccm.ac.th/welcome/info/2' isExternal>information<ExternalLinkIcon /></Link></Box>
         </Stack>
     )
 }
