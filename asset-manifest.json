@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.0a8c2d70.css",
-    "main.js": "/Portfolio/static/js/main.baf6299b.js",
+    "main.js": "/Portfolio/static/js/main.76e9d76b.js",
     "static/js/787.6d8e164b.chunk.js": "/Portfolio/static/js/787.6d8e164b.chunk.js",
     "static/media/cookri-mobile.png": "/Portfolio/static/media/cookri-mobile.a264acd45d9a94a3eefa.png",
     "static/media/gild-icon.jpg": "/Portfolio/static/media/gild-icon.dcce0e363e12a1516f0d.jpg",
@@ -13,11 +13,11 @@
     "static/media/abhaya-libre-latin-ext-400-normal.woff2": "/Portfolio/static/media/abhaya-libre-latin-ext-400-normal.30f5132b87c97e506f4e.woff2",
     "index.html": "/Portfolio/index.html",
     "main.0a8c2d70.css.map": "/Portfolio/static/css/main.0a8c2d70.css.map",
-    "main.baf6299b.js.map": "/Portfolio/static/js/main.baf6299b.js.map",
+    "main.76e9d76b.js.map": "/Portfolio/static/js/main.76e9d76b.js.map",
     "787.6d8e164b.chunk.js.map": "/Portfolio/static/js/787.6d8e164b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a8c2d70.css",
-    "static/js/main.baf6299b.js"
+    "static/js/main.76e9d76b.js"
   ]
 }
